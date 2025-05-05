@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[project_department](project_department/) | 18.0.1.0.0 |  | Project Department Categorization
 [project_parent](project_parent/) | 18.0.1.0.0 |  | Project Parent
 [project_pivot](project_pivot/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Pivot view for projects
 [project_role](project_role/) | 18.0.1.0.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Project role-based roster
