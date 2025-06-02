@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [project_department](project_department/) | 18.0.1.0.0 |  | Project Department Categorization
+[project_key](project_key/) | 18.0.1.0.0 |  | Module decorates projects and tasks with Project Key
 [project_milestone_status](project_milestone_status/) | 18.0.1.0.0 | [![lbarry-apsl](https://github.com/lbarry-apsl.png?size=30px)](https://github.com/lbarry-apsl) | Project Milestone Status
 [project_parent](project_parent/) | 18.0.1.0.0 |  | Project Parent
 [project_pivot](project_pivot/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Pivot view for projects
