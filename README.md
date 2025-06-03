@@ -26,6 +26,7 @@ addon | version | maintainers | summary
 [project_milestone_status](project_milestone_status/) | 18.0.1.0.0 | [![lbarry-apsl](https://github.com/lbarry-apsl.png?size=30px)](https://github.com/lbarry-apsl) | Project Milestone Status
 [project_parent](project_parent/) | 18.0.1.0.0 |  | Project Parent
 [project_pivot](project_pivot/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Pivot view for projects
+[project_purchase_link](project_purchase_link/) | 18.0.1.0.0 |  | Project Purchase Link
 [project_role](project_role/) | 18.0.1.0.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Project role-based roster
 [project_scrum](project_scrum/) | 18.0.1.0.0 | [![adasatorres](https://github.com/adasatorres.png?size=30px)](https://github.com/adasatorres) | This addon allow use the scrum methodology in projects
 [project_sequence](project_sequence/) | 18.0.1.0.0 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) [![anddago78](https://github.com/anddago78.png?size=30px)](https://github.com/anddago78) | Add a sequence field to projects, filled automatically
