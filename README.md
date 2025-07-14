@@ -80,3 +80,4 @@ Testing GitHub → Odoo webhook
 # Test PR 2
 # Test PR 4
 # Test PR 6
+# Test PR 7
